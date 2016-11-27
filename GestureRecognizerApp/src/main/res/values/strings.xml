@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GestureRecognizerApp</string>
+    <string name="one">one</string>
+    <string name="two">two</string>
+    <string name="stop">stop</string>
+    <string name="Unrecognized">Unrecognized gesture</string>
+    <string name="gesture">Here is name of the gesture</string>
+</resources>

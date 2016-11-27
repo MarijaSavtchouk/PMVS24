@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">BelarusApp</string>
+    <string name="show">Вывести информацию</string>
+    <string name="agregation">Агрегирующая функция</string>
+    <string name="population_filter">Фильтр по населению</string>
+    <string name="groupByArea">Группировка по области</string>
+    <string name="filter_area_population">Фильтр области по населению</string>
+    <string name="sorting">Сортировка</string>
+    <string name="population">Население</string>
+    <string-array name="sort_param">
+        <item>Наименование</item>
+        <item>Область</item>
+        <item>Население</item>
+    </string-array>
+    <string-array name="agreg_param">
+        <item>MAX</item>
+        <item>SUM</item>
+        <item>COUNT</item>
+    </string-array>
+</resources>
+
